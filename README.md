@@ -2,8 +2,8 @@
 *Fonctionnalités principales :
 Serveur multithread (un thread par client) : SecureFileServer et ClientTransferHandler, 
 Protocole en 3 phases : authentification, négociation, transfert & vérification ,
-Chiffrement AES (javax.crypto) pour protéger le contenu des fichiers, 
-Hachage SHA-256 (java.security.MessageDigest) pour garantir l'intégrité, 
+Chiffrement AES pour protéger le contenu des fichiers, 
+Hachage SHA-256 pour garantir l'intégrité, 
 Interface client en ligne de commande (SecureFileClient).
 
 *Protocole en 3 phases
