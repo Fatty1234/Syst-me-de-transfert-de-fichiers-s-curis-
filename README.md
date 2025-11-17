@@ -25,10 +25,6 @@ Réponse :
 TRANSFER_SUCCESS
 TRANSFER_FAIL )
 
-***Équipe du projet***
-OUYAHIA Salma , SRIJA Fatima-Zahra
-
-
 *Sécurité
 AES pour chiffrer/déchiffrer le fichier.
 SHA-256 pour vérifier l’intégrité.
@@ -40,5 +36,7 @@ java SecureFileServer <port>
 Lancer le client :
 java SecureFileClient <ip> <port> <login> <password> <fichier>
 
+***Équipe du projet***
+OUYAHIA Salma , SRIJA Fatima-Zahra
 
 
